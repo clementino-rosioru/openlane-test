@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slide changed
 title: "Welcome!!!"
 ---
 
