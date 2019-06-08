@@ -1,6 +1,6 @@
 ---
 layout: slide changed
-title: "Welcome!!!"
+title: "Welcome, eh!"
 ---
 
 This is awesome... wow! 
